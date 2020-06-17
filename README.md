@@ -3,12 +3,12 @@ A Physiologically‐Based Quantitative Systems Pharmacology Model of the Increti
 
 ![Physiology of glucagon‐like peptide‐1 (GLP‐1) and glucose‐dependent insulinotropic polypeptide (GIP) pharmacokinetic as modeled.](/Figures/Figure_1.png)
 
-_Physiology of glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) pharmacokinetic as modeled. Figure taken from [1](#references), copyright by CPT:PSP._
+_Physiology of glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) pharmacokinetic as modeled. Figure taken from [[1](#references)], copyright by CPT:PSP._
 
 Within this repository, we distribute a physiologically-based mechanistic model of the incretin hormones GLP-1 and GIP coupled with a PBPK/PD model of a DPP4 inhibitor sitagliptin. The model captures glucose-induced secretion of the hormones and their degradation by the enzymes DPP4 and NEP (MME).
 
 ## Repository files
-The model is provided as a MoBi project **PB_QSP_Incretins_model.mbp3**. The model was created with the Open Systems Pharmacology Suite (OSPS) version 8. The project includes various simulations that are described in [1](#references).
+The model is provided as a MoBi project **PB_QSP_Incretins_model.mbp3**. The model was created with the Open Systems Pharmacology Suite (OSPS) version 8. The project includes various simulations that are described in [[1](#references)].
 
 The folder **RScript** contains R-script files used to generate figures of the original publication [[1](#references)]. To execute them, the [OSPS toolbox for R](https://github.com/Open-Systems-Pharmacology/R-Toolbox/releases) version 8 is required. The archives **Models_XML.zip** and **ExpData.zip** include the model files and experimental data extracted from literature, respectively, required for executing the scripts. If you want to run the scripts, adjust the paths to the respective folders in the script files.
 
