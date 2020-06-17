@@ -1,7 +1,7 @@
 # Incretins-Model
 A Physiologically‐Based Quantitative Systems Pharmacology Model of the Incretin Hormones GLP‐1 and GIP and the DPP4 Inhibitor Sitagliptin.
 
-![Physiology of glucagon‐like peptide‐1 (GLP‐1) and glucose‐dependent insulinotropic polypeptide (GIP) pharmacokinetic as modeled.](..\Figures\Figure_1.png)
+![Physiology of glucagon‐like peptide‐1 (GLP‐1) and glucose‐dependent insulinotropic polypeptide (GIP) pharmacokinetic as modeled.](/Figures/Figure_1.png)
 
 _Physiology of glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) pharmacokinetic as modeled. Figure taken from [1](#references), copyright by CPT:PSP._
 
